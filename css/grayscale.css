@@ -30,14 +30,16 @@
 }
 
 #mainNav .navbar-brand {
-  color: #161616;
+  color: white;
   font-weight: 700;
   padding: .9rem 0;
 }
 
-#mainNav .navbar-nav .nav-item .contact-button {
-  background-color: #570b19;
-  color: white;
+#mainNav .navbar-nav .nav-item {
+  /*.contact-button{
+        background-color: #570b19;
+        color: white;
+      }*/
 }
 
 #mainNav .navbar-nav .nav-item:hover {
@@ -58,10 +60,10 @@
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
-  }
-  #mainNav .contact-button {
-    background-color: #570b19;
-    color: white;
+    /*.contact-button{
+      background-color: #570b19;
+      color: white;
+    }*/
   }
   #mainNav .header-logo {
     display: inline;
@@ -86,11 +88,11 @@
     color: white;
   }
   #mainNav.navbar-shrink {
+    /* .contact-button{
+        background-color: #570b19;
+        color: white;
+      }*/
     background-color: #fff;
-  }
-  #mainNav.navbar-shrink .contact-button {
-    background-color: #570b19;
-    color: white;
   }
   #mainNav.navbar-shrink .header-logo--color {
     display: inline;
@@ -100,7 +102,7 @@
     display: none;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #161616;
+    color: #197AAA;
   }
   #mainNav.navbar-shrink .nav-link {
     color: #161616;

@@ -18,16 +18,16 @@
     display: none;
   }
   .navbar-brand {
-    color: $black;
+    color: white;
     font-weight: 700;
     padding: .9rem 0;
   }
   .navbar-nav {
     .nav-item {
-      .contact-button{
+      /*.contact-button{
         background-color: #570b19;
         color: white;
-      }
+      }*/
 
       &:hover {
         color: fade(white, 80%);
@@ -47,10 +47,10 @@
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
-    .contact-button{
+    /*.contact-button{
       background-color: #570b19;
       color: white;
-    }
+    }*/
     .header-logo{
       display: inline;
       background: url("./img/logo.png") no-repeat ;
@@ -74,10 +74,10 @@
       }
     }
     &.navbar-shrink {
-      .contact-button{
+     /* .contact-button{
         background-color: #570b19;
         color: white;
-      }
+      }*/
       .header-logo--color{
         display: inline;
         background: url("./img/logo-color.png") no-repeat ;
@@ -87,7 +87,7 @@
       }
       background-color: $white;
       .navbar-brand {
-        color: $black;
+        color: #197AAA;
       }
       .nav-link {
         color: $black;

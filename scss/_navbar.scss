@@ -18,7 +18,7 @@
     display: none;
   }
   .navbar-brand {
-    color: white;
+    color: #197AAA;
     font-weight: 700;
     padding: .9rem 0;
   }
@@ -94,13 +94,13 @@
         padding: 1.5rem 1.5rem 1.25rem;
         border-bottom: 0.25rem solid transparent;
         &:hover {
-          color: $primary;
+          color: #197AAA;
         }
         &:active {
-          color: darken($primary, 15%);
+          color: #197AAA;//darken($primary, 15%);
         }
         &.active {
-          color: $primary;
+          color: #197AAA;//$primary;
           outline: none;
           border-bottom: 0.25rem solid $primary;
         }

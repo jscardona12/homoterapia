@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #197AAA;
+  border: 1px solid #197AAA;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -30,7 +30,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: white;
+  color: #197AAA;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -110,15 +110,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #197AAA;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #197AAA;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #197AAA;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #197AAA;
   }
 }
 
@@ -184,20 +184,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #197AAA;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #125a7e;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #125a7e;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #0f4a67 !important;
 }
 
 .about-section {
@@ -220,7 +220,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #197AAA;
   }
 }
 
@@ -234,7 +234,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #197AAA;
     border-width: .25rem;
     width: 30%;
   }
@@ -266,7 +266,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #197AAA;
 }
 
 .contact-section .card h4 {
@@ -277,7 +277,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #197AAA;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -310,12 +310,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #197AAA;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #0c3a51;
 }
 
 .bg-black {
@@ -323,11 +323,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #197AAA !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #197AAA !important;
 }
 
 .fadeIn {

@@ -5,10 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/grayscale.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/grayscale.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/grayscale.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/grayscale.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/grayscale.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/grayscale.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/grayscale.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -12,7 +12,7 @@
   }
   .header-logo--color{
     display: inline;
-    background: url("/img/logo-color.png") no-repeat ;
+    background: url("./img/logo-color.png") no-repeat ;
   }
   .header-logo{
     display: none;
@@ -48,7 +48,7 @@
     transition: background-color 0.3s ease-in-out;
     .header-logo{
       display: inline;
-      background: url("/img/logo.png") no-repeat ;
+      background: url("./img/logo.png") no-repeat ;
     }
     .header-logo--color{
       display: none;

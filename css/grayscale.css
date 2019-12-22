@@ -4,12 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
-@font-face {
-  font-family: "Acumin Variable Concept";
-  src: url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.eot");
-  src: url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.woff") format("woff"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.svg#Acumin Variable Concept") format("svg");
-}
-
 #mainNav {
   min-height: 56px;
   background-color: #fff;
@@ -36,8 +30,7 @@
 }
 
 #mainNav .navbar-brand {
-  font-family: "Acumin Variable Concept";
-  color: white !important;
+  color: white;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -80,7 +73,6 @@
     display: none;
   }
   #mainNav .navbar-brand {
-    font-family: "Acumin Variable Concept";
     padding: .5rem 0;
     color: rgba(255, 255, 255, 0.5);
   }
@@ -97,9 +89,9 @@
   }
   #mainNav.navbar-shrink {
     /* .contact-button{
-         background-color: #570b19;
-         color: white;
-       }*/
+        background-color: #570b19;
+        color: white;
+      }*/
     background-color: #fff;
   }
   #mainNav.navbar-shrink .header-logo--color {
@@ -110,8 +102,7 @@
     display: none;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    font-family: "Acumin Variable Concept";
-    color: #197AAA !important;
+    color: #197AAA;
   }
   #mainNav.navbar-shrink .nav-link {
     color: #161616;
@@ -337,6 +328,10 @@ a:focus, a:hover {
 
 .text-primary {
   color: #64a19d !important;
+}
+
+.fadeIn {
+  opacity: 0;
 }
 
 footer {

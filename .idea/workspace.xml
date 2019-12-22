@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4831d2a-6465-4aba-bd07-3ffb05ce1a5d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/grayscale.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grayscale.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-grid 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-grid.css 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-grid.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-grid.min.css 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-reboot 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-reboot.css 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-reboot.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap-reboot.min.css 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap.css 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/.bootstrap.min.css 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/.bootstrap.bundle.js 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/.bootstrap.bundle.min.js 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/.bootstrap.js 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/.bootstrap.min.js 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.all 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.all.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.brands 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.brands.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.fontawesome 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.fontawesome.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.regular 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.regular.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.solid 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.solid.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.svg-with-js 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.svg-with-js.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.v4-shims 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/css/.v4-shims.min 2.css.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-brands-400 2.eot.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-brands-400 2.ttf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-brands-400 2.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-brands-400 2.woff2.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-regular-400 2.eot.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-regular-400 2.ttf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-regular-400 2.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-regular-400 2.woff2.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-solid-900 2.eot.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-solid-900 2.ttf.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-solid-900 2.woff.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/.fa-solid-900 2.woff2.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400 2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400 2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900 2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/.jquery.min 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/.jquery.slim.min 2.map.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim 2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min 2.js" beforeDir="false" />
-    </list>
+    <list default="true" id="e4831d2a-6465-4aba-bd07-3ffb05ce1a5d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

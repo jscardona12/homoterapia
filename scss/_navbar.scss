@@ -1,3 +1,4 @@
+@font-face {font-family: "Acumin Variable Concept"; src: url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.eot"); src: url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.woff") format("woff"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/066ce24dae3730ed6c648b09efaea93a.svg#Acumin Variable Concept") format("svg"); }
 #mainNav {
   min-height: 56px;
   background-color: $white;
@@ -18,8 +19,8 @@
     display: none;
   }
   .navbar-brand {
-    font-family: Ac;
-    color: white;
+    font-family: "Acumin Variable Concept";
+    color: white !important;
     font-weight: 700;
     padding: .9rem 0;
   }
@@ -60,6 +61,7 @@
       display: none;
     }
     .navbar-brand {
+      font-family: "Acumin Variable Concept";
       padding: .5rem 0;
       color: fade-out($white, .5);
     }
@@ -75,10 +77,10 @@
       }
     }
     &.navbar-shrink {
-     /* .contact-button{
-        background-color: #570b19;
-        color: white;
-      }*/
+      /* .contact-button{
+         background-color: #570b19;
+         color: white;
+       }*/
       .header-logo--color{
         display: inline;
         background: url("./img/logo-color.png") no-repeat ;
@@ -88,7 +90,8 @@
       }
       background-color: $white;
       .navbar-brand {
-        color: #197AAA;
+        font-family: "Acumin Variable Concept";
+        color: #197AAA !important;
       }
       .nav-link {
         color: $black;

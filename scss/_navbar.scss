@@ -69,6 +69,13 @@
       }
     }
     &.navbar-shrink {
+      .header-logo--color{
+        display: inline;
+        background: url("./img/logo-color.png") no-repeat ;
+      }
+      .header-logo{
+        display: none;
+      }
       background-color: $white;
       .navbar-brand {
         color: $black;

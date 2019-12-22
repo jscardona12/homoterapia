@@ -22,7 +22,7 @@
 
 #mainNav .header-logo--color {
   display: inline;
-  background: url("/img/logo-color.png") no-repeat;
+  background: url("./img/logo-color.png") no-repeat;
 }
 
 #mainNav .header-logo {
@@ -60,7 +60,7 @@
   }
   #mainNav .header-logo {
     display: inline;
-    background: url("/img/logo.png") no-repeat;
+    background: url("./img/logo.png") no-repeat;
   }
   #mainNav .header-logo--color {
     display: none;
@@ -82,6 +82,13 @@
   }
   #mainNav.navbar-shrink {
     background-color: #fff;
+  }
+  #mainNav.navbar-shrink .header-logo--color {
+    display: inline;
+    background: url("./img/logo-color.png") no-repeat;
+  }
+  #mainNav.navbar-shrink .header-logo {
+    display: none;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #161616;

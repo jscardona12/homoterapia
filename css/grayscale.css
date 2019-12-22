@@ -20,6 +20,15 @@
   outline: none;
 }
 
+#mainNav .header-logo--color {
+  display: inline;
+  background: url("/img/logo-color.png") no-repeat;
+}
+
+#mainNav .header-logo {
+  display: none;
+}
+
 #mainNav .navbar-brand {
   color: #161616;
   font-weight: 700;
@@ -48,6 +57,13 @@
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
+  }
+  #mainNav .header-logo {
+    display: inline;
+    background: url("/img/logo.png") no-repeat;
+  }
+  #mainNav .header-logo--color {
+    display: none;
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;

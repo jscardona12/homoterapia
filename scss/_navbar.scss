@@ -10,6 +10,13 @@
       outline: none;
     }
   }
+  .header-logo--color{
+    display: inline;
+    background: url("/img/logo-color.png") no-repeat ;
+  }
+  .header-logo{
+    display: none;
+  }
   .navbar-brand {
     color: $black;
     font-weight: 700;
@@ -20,6 +27,7 @@
       .contact-button{
         background-color: #570b19;
       }
+
       &:hover {
         color: fade(white, 80%);
         outline: none;
@@ -38,6 +46,13 @@
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
+    .header-logo{
+      display: inline;
+      background: url("/img/logo.png") no-repeat ;
+    }
+    .header-logo--color{
+      display: none;
+    }
     .navbar-brand {
       padding: .5rem 0;
       color: fade-out($white, .5);

@@ -26,6 +26,7 @@
     .nav-item {
       .contact-button{
         background-color: #570b19;
+        color: white;
       }
 
       &:hover {
@@ -46,6 +47,10 @@
     border-bottom: none;
     background-color: transparent;
     transition: background-color 0.3s ease-in-out;
+    .contact-button{
+      background-color: #570b19;
+      color: white;
+    }
     .header-logo{
       display: inline;
       background: url("./img/logo.png") no-repeat ;
@@ -69,6 +74,10 @@
       }
     }
     &.navbar-shrink {
+      .contact-button{
+        background-color: #570b19;
+        color: white;
+      }
       .header-logo--color{
         display: inline;
         background: url("./img/logo-color.png") no-repeat ;
